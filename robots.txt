@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodybiwasuio.github.io/sitemap.xml
